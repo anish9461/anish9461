@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **_Anish_**. I am passionate about working as a DevOps Engineer. Below are the DevOps tools I have worked on:
+I am **_Anish_**. I am passionate about working as a DevOps Engineer
 
 ### Certifications
 
