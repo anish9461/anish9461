@@ -66,6 +66,9 @@ I am **_Anish_**. I am passionate about working as a DevOps Engineer
    <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/terraform.gif" width="120" />
   </a>
+  <a href="https://www.serverless.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/serverless.gif" width="120" />
+  </a>
   </p>
 
  ### Containerization
