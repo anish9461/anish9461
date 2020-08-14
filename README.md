@@ -16,7 +16,7 @@ I am ***Anish***. I am passionate about working as a DevOps Engineer. Below are 
   
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/aws.gif"  height="65" />
   </a>
  </p>
  
