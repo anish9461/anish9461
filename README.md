@@ -86,6 +86,9 @@ I am **_Anish_**. I am passionate about working as a DevOps Engineer
  <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://github.com/anish9461/anish9461/blob/master/assets/mongo.gif"  height="80" /> 
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" >
+    <img src="https://github.com/anish9461/anish9461/blob/master/assets/sql.gif"  height="80" /> 
+  </a>
    </p>
 
 <!--
