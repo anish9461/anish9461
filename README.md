@@ -4,7 +4,7 @@ I am **_Anish_**. I am passionate about working as a DevOps Engineer
 
 <p float="center">
 <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" >
-    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/devops.gif"  height="140" />
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/devops.gif"  height="150" />
   </a>
  </p>
 
