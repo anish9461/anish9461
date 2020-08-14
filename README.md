@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ***Anish***. I am passionate about working as a DevOps Engineer. Below are the DevOps tools I have worked on:
+I am **_Anish_**. I am passionate about working as a DevOps Engineer. Below are the DevOps tools I have worked on:
 
 ### Programming Languages
 
@@ -25,23 +25,38 @@ I am ***Anish***. I am passionate about working as a DevOps Engineer. Below are 
  
  
  ### Continuous Integration
- 
+ <p float="left">
+  <a href="https://circleci.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/circleci.gif"  height="65" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/jenkins.jpg"  height="65" />
+  </a>
+ </p>
  
  ### Configuration Management
- 
+  <p float="left">
+   <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/ansible.gif" width="120" />
+  </a>
+  </p>
  
  ### Infrastructure Provisioning
+  <p float="left">
    <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/terraform.gif" width="120" />
   </a>
- 
+  </p>
+
  ### Containerization
+ <p float="left">
  <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/anish9461/anish9461/blob/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/k8s.gif"  height="75" />
   </a>
+   </p>
 <!--
 **anish9461/anish9461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,4 +70,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
