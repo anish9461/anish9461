@@ -9,6 +9,18 @@ I am **_Anish_**. I am passionate about working as a DevOps Engineer
  </p>
 
 ### Certifications
+<p float="center">
+<a href="https://www.youracclaim.com/badges/9fc4f52c-5d9c-4575-8d54-ffd394700113/public_url" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/awscp.png"  height="90" />
+  </a>
+  <a href="https://www.youracclaim.com/badges/9108da04-8439-498d-ab68-2c514d1e029b/public_url" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/awssa.png"  height="90" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/terraformbadge.png"  height="90" />
+  </a>
+ </p>
+
 
 ### Programming Languages
 
