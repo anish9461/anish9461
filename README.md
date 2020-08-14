@@ -5,6 +5,9 @@ I am ***Anish***. I am passionate about working as a DevOps Engineer. Below are 
 ### Programming Languages
 
 <p float="left">
+<a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/python.gif"  height="90" />
+  </a>
 <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/golang.gif"  height="90" />
   </a>
