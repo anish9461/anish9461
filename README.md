@@ -29,7 +29,7 @@ I am ***Anish***. I am passionate about working as a DevOps Engineer. Below are 
  
  ### Infrastructure Provisioning
    <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/anish9461/anish9461/master/assets/terraform.gif" width="120" />
+    <img src="https://github.com/anish9461/anish9461/blob/master/assests/terraform.gif" width="120" />
   </a>
  
  ### Containerization
