@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **_Anish_**. I am passionate about working as a DevOps Engineer
+I am **_Anish_**. A DevOps Engineer
 
 <p float="center">
 <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" >
