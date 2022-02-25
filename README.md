@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **_Anish_**. **Developer** turned **DevOps** Engineer
+I am **_Anish_**. **Software Developer** and **DevOps** Engineer
 
 <p float="center">
 <a href="https://en.wikipedia.org/wiki/DevOps" target="_blank" >
